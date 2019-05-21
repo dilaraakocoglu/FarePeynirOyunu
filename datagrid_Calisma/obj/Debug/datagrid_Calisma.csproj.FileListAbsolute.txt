@@ -1,0 +1,28 @@
+c:\users\hamur\documents\visual studio 2017\Projects\datagrid_Calisma\datagrid_Calisma\bin\Debug\datagrid_Calisma.exe.config
+c:\users\hamur\documents\visual studio 2017\Projects\datagrid_Calisma\datagrid_Calisma\bin\Debug\datagrid_Calisma.exe
+c:\users\hamur\documents\visual studio 2017\Projects\datagrid_Calisma\datagrid_Calisma\bin\Debug\datagrid_Calisma.pdb
+c:\users\hamur\documents\visual studio 2017\Projects\datagrid_Calisma\datagrid_Calisma\obj\Debug\datagrid_Calisma.csprojResolveAssemblyReference.cache
+c:\users\hamur\documents\visual studio 2017\Projects\datagrid_Calisma\datagrid_Calisma\obj\Debug\datagrid_Calisma.Form1.resources
+c:\users\hamur\documents\visual studio 2017\Projects\datagrid_Calisma\datagrid_Calisma\obj\Debug\datagrid_Calisma.Properties.Resources.resources
+c:\users\hamur\documents\visual studio 2017\Projects\datagrid_Calisma\datagrid_Calisma\obj\Debug\datagrid_Calisma.csproj.GenerateResource.Cache
+c:\users\hamur\documents\visual studio 2017\Projects\datagrid_Calisma\datagrid_Calisma\obj\Debug\datagrid_Calisma.exe
+c:\users\hamur\documents\visual studio 2017\Projects\datagrid_Calisma\datagrid_Calisma\obj\Debug\datagrid_Calisma.pdb
+C:\Users\Dilara\Desktop\datagrid_Calisma\datagrid_Calisma\datagrid_Calisma\bin\Debug\datagrid_Calisma.exe.config
+C:\Users\Dilara\Desktop\datagrid_Calisma\datagrid_Calisma\datagrid_Calisma\obj\Debug\datagrid_Calisma.exe
+C:\Users\Dilara\Desktop\datagrid_Calisma\datagrid_Calisma\datagrid_Calisma\obj\Debug\datagrid_Calisma.pdb
+C:\Users\Dilara\Desktop\datagrid_Calisma\datagrid_Calisma\datagrid_Calisma\bin\Debug\datagrid_Calisma.exe
+C:\Users\Dilara\Desktop\datagrid_Calisma\datagrid_Calisma\datagrid_Calisma\bin\Debug\datagrid_Calisma.pdb
+C:\Users\Dilara\Desktop\datagrid_Calisma\datagrid_Calisma\datagrid_Calisma\obj\Debug\datagrid_Calisma.csprojResolveAssemblyReference.cache
+C:\Users\Dilara\Desktop\datagrid_Calisma\datagrid_Calisma\datagrid_Calisma\obj\Debug\datagrid_Calisma.Form1.resources
+C:\Users\Dilara\Desktop\datagrid_Calisma\datagrid_Calisma\datagrid_Calisma\obj\Debug\datagrid_Calisma.Properties.Resources.resources
+C:\Users\Dilara\Desktop\datagrid_Calisma\datagrid_Calisma\datagrid_Calisma\obj\Debug\datagrid_Calisma.csproj.GenerateResource.Cache
+C:\Users\dilar\Desktop\Dilara\Ders Notları\3.Sınıf-1.Dönem\datagrid_Calisma\datagrid_Calisma\datagrid_Calisma\bin\Debug\datagrid_Calisma.exe.config
+C:\Users\dilar\Desktop\Dilara\Ders Notları\3.Sınıf-1.Dönem\datagrid_Calisma\datagrid_Calisma\datagrid_Calisma\bin\Debug\datagrid_Calisma.exe
+C:\Users\dilar\Desktop\Dilara\Ders Notları\3.Sınıf-1.Dönem\datagrid_Calisma\datagrid_Calisma\datagrid_Calisma\bin\Debug\datagrid_Calisma.pdb
+C:\Users\dilar\Desktop\Dilara\Ders Notları\3.Sınıf-1.Dönem\datagrid_Calisma\datagrid_Calisma\datagrid_Calisma\obj\Debug\datagrid_Calisma.csprojAssemblyReference.cache
+C:\Users\dilar\Desktop\Dilara\Ders Notları\3.Sınıf-1.Dönem\datagrid_Calisma\datagrid_Calisma\datagrid_Calisma\obj\Debug\datagrid_Calisma.Form1.resources
+C:\Users\dilar\Desktop\Dilara\Ders Notları\3.Sınıf-1.Dönem\datagrid_Calisma\datagrid_Calisma\datagrid_Calisma\obj\Debug\datagrid_Calisma.Properties.Resources.resources
+C:\Users\dilar\Desktop\Dilara\Ders Notları\3.Sınıf-1.Dönem\datagrid_Calisma\datagrid_Calisma\datagrid_Calisma\obj\Debug\datagrid_Calisma.csproj.GenerateResource.cache
+C:\Users\dilar\Desktop\Dilara\Ders Notları\3.Sınıf-1.Dönem\datagrid_Calisma\datagrid_Calisma\datagrid_Calisma\obj\Debug\datagrid_Calisma.csproj.CoreCompileInputs.cache
+C:\Users\dilar\Desktop\Dilara\Ders Notları\3.Sınıf-1.Dönem\datagrid_Calisma\datagrid_Calisma\datagrid_Calisma\obj\Debug\datagrid_Calisma.exe
+C:\Users\dilar\Desktop\Dilara\Ders Notları\3.Sınıf-1.Dönem\datagrid_Calisma\datagrid_Calisma\datagrid_Calisma\obj\Debug\datagrid_Calisma.pdb
